@@ -1,6 +1,6 @@
-# Casper
+# Hoist Theme
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Theme for [Hoist Blog](https://www.hoist.io/blog).
 
 ## Copyright & License
 
