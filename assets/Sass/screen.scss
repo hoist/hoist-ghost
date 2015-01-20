@@ -51,10 +51,7 @@ body{
 
 sidebar{
     width: 400px;
-    height: 100%;
-    position: fixed;
-    left: 0px;
-    top: 0px;
+    float:left;
 }
 
 main{
@@ -68,7 +65,7 @@ main{
     	@media screen and (min-width: 1400px) {
 	    width: 960px;
 	    float: left;
-	    margin-left: 400px;
+	    /*margin-left: 400px;*/
   	}
 }
 
@@ -439,7 +436,7 @@ nav{
 }
 
 .copyright div{
-	height: 40px;
+	padding-bottom:20px;
 	line-height:40px;
 	font-family: "expo-serif-pro", serif;
 	font-size: 13px;
