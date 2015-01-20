@@ -27,6 +27,8 @@ You'll also need to bring your own [Typekit](https://typekit.com/) account. The 
 
 We use google analytics to monitor our blog, add your tracking code to deafult.hbs, in the script tag just before the closing body tag.
 
+If you want to edit the sidebar, for example adding tag links or a description, look inside deafult.hbs, in the <sidebar> element. 
+
 ###Using theme elements
 
 Too add a "discuss this article on twitter" call to action in the footer, simply add 
