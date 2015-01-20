@@ -23,7 +23,7 @@ All the css is generated in assets/Sass/screen.scss. If you want to compile the 
 
 You will probably want to configure the email signup form, or remove it. We personally use [Campaign Monitor](https://www.campaignmonitor.com/), but it can be configured to use whatever you want. The two places you'll want to configure are found in post.hbs and default.hbs.
 
-You'll also need to bring your own [Typekit](https://typekit.com/) account. The fonts we use are [Expo Serif Pro](https://typekit.com/fonts/expo-serif-pro), and [Proxima Nova](https://typekit.com/fonts/proxima-nova). Add your embed code in deafult.hbs, in the head.
+You'll also need to bring your own [Typekit](https://typekit.com/) account. The fonts we use are [Expo Serif Pro](https://typekit.com/fonts/expo-serif-pro), and [Proxima Nova](https://typekit.com/fonts/proxima-nova). Add your embed code in deafult.hbs, in the head. Alternativly, you could edit the css to use free fonts.
 
 We use google analytics to monitor our blog, add your tracking code to deafult.hbs, in the script tag just before the closing body tag.
 
